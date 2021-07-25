@@ -1,8 +1,8 @@
 # ascii-generator
 
-#Input:
+# Input:
 ![Test image](/test.jpg)
 
 
-#Output:
+# Output:
 ![Test image output](/testresult.png)
