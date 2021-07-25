@@ -1,5 +1,11 @@
 # ascii-generator
 
+## Usage:
+python main.py [file name]
+
+### Example
+python main.py patka2.jpg
+
 # Image 1:
 ![cbnielb normalna](/patka2.jpg)
 
