@@ -1,8 +1,8 @@
 # ascii-generator
 
 # Input:
-![Test image](/test.jpg)
+![Test image](/patka2.jpg)
 
 
 # Output:
-![Test image output](/testresult.png)
+![Test image output](/patkaresult.jpg)
