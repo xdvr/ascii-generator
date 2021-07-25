@@ -1,7 +1,7 @@
 # ascii-generator
 
 Input:
-![Test image](https://imgur.com/Ek55mqI)
+![Test image](/test.jpg)
 
 Output:
 ![Test image output](https://imgur.com/sBHyn0D)
